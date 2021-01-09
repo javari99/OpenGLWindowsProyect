@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Programacion\Cpp\OpenGLWindowsProyect\OpenGLWindowsProyect\src\main.cpp(181,55): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  OpenGLWindowsProyect.vcxproj -> D:\Programacion\Cpp\OpenGLWindowsProyect\OpenGLWindowsProyect\bin\OpenGLWindowsProyectd.exe
